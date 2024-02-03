@@ -1,0 +1,39 @@
+{
+    "jarmuvek": [
+        {
+            "azonosító": 1,
+            "rendszám": "BDE-384",
+            "márka": "Opel",
+            "űrtartalom": 1700,
+            "ár": 3450
+        },
+        {
+            "azonosító": 2,
+            "rendszám": "CAF-784",
+            "márka": "Ford",
+            "űrtartalom": 1600,
+            "ár": 2490
+        },
+        {
+            "azonosító": 3,
+            "rendszám": "GDA-836",
+            "márka": "Opel",
+            "űrtartalom": 1200,
+            "ár": 2210
+        },
+        {
+            "azonosító": 4,
+            "rendszám": "GLI-284",
+            "márka": "Opel",
+            "űrtartalom": 1400,
+            "ár": 2910
+        },
+        {
+            "azonosító": 5,
+            "rendszám": "MAD-914",
+            "márka": "Ford",
+            "űrtartalom": 1400,
+            "ár": 5150
+        }
+    ]
+}
