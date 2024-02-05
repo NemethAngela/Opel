@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+              <Component id="SaveRecordjButton1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="184" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+              <Component id="PreviousjButton2" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="RendszamjLabel3" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="AzjLabel2" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="MarkajLabel4" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="UrtartalomjLabel5" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="ArjLabel6" alignment="0" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="73" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="ArjTextField5" pref="71" max="32767" attributes="0"/>
+                  <Component id="UrtartalomjTextField4" max="32767" attributes="0"/>
+                  <Component id="MarkajTextField3" max="32767" attributes="0"/>
+                  <Component id="RendszamjTextField2" max="32767" attributes="0"/>
+                  <Component id="AzjTextField1" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="44" max="-2" attributes="0"/>
+              <Component id="NextjButton3" min="-2" max="-2" attributes="0"/>
+              <EmptySpace pref="22" max="32767" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace max="32767" attributes="0"/>
+              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="161" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="SaveRecordjButton1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace pref="10" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="AzjLabel2" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="AzjTextField1" alignment="1" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="RendszamjLabel3" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="RendszamjTextField2" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="MarkajLabel4" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="MarkajTextField3" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="PreviousjButton2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="NextjButton3" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="UrtartalomjLabel5" min="-2" max="-2" attributes="0"/>
+                  <Component id="UrtartalomjTextField4" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="ArjLabel6" min="-2" max="-2" attributes="0"/>
+                  <Component id="ArjTextField5" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="51" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI" size="36" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="J&#xe1;rm&#x171;vek"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="AzjLabel2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Azonosito"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="RendszamjLabel3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Rendsz&#xe1;m"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="MarkajLabel4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="M&#xe1;rka"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="UrtartalomjLabel5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x170;rtartalom"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="ArjLabel6">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#xc1;r"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="AzjTextField1">
+    </Component>
+    <Component class="javax.swing.JTextField" name="RendszamjTextField2">
+    </Component>
+    <Component class="javax.swing.JTextField" name="MarkajTextField3">
+    </Component>
+    <Component class="javax.swing.JTextField" name="UrtartalomjTextField4">
+    </Component>
+    <Component class="javax.swing.JTextField" name="ArjTextField5">
+    </Component>
+    <Component class="javax.swing.JButton" name="SaveRecordjButton1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Rekord ment&#xe9;se"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="SaveRecordjButton1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="PreviousjButton2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="El&#x151;z&#x151;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="PreviousjButton2ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="NextjButton3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="K&#xf6;vetkez&#x151;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="NextjButton3ActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
